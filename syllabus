@@ -1,0 +1,18 @@
+Core java:  (basic core java)
+jsp servlet  {basic} || practice
+
+spring : mvc, aop, tx, caching, rest, data jpa, data rest
+
+hibernate: db {sql/pl-sql}
+
+Soap (webservices)
+
+Monolithic ---->Microservice?
+
+Spring Cloud
+
+Jms, Amqp (rabbit mq), Spring Batch, Spring amqp, Spring Integration
+
+Aws (amazon webservice)
+
+Jenkins, Unit testing , Integration testing, Docker (swarm: prod)

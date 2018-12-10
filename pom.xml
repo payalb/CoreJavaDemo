@@ -5,7 +5,8 @@
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
   <modules>
-  	<module>ClassStructure</module>
+  	<module>CoreJavaDemo.ClassStructure</module>
   	<module>CoreJavaDemo.AccessModifiers</module>
+  	<module>CoreJavaDemo.StaticVsObject</module>
   </modules>
 </project>

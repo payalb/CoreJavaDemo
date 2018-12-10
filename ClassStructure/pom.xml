@@ -5,5 +5,5 @@
     <artifactId>CoreJavaDemo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>ClassStructure</artifactId>
+  <artifactId>CoreJavaDemo.ClassStructure</artifactId>
 </project>

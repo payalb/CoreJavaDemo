@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>ClassStructure</module>
+  	<module>CoreJavaDemo.AccessModifiers</module>
   </modules>
 </project>
